@@ -1,3 +1,9 @@
+// == CS400 Spring 2024 File Header Information ==
+// Name: Anna Thao (Athao28)
+// Email: athao28@wisc.edu
+// Lecturer: Dr. Jiazhen Zhou
+// Notes to Grader:
+
 /*
  * Test the use of the Color method
  */
